@@ -18,4 +18,4 @@ spring:
     generate-ddl: true #gerar bd automaticamente
 
 application:
-  description: Projeto criado para o santander DIO - Santander
+  description: Projeto criado para o santander DIO - Santander / Backend
